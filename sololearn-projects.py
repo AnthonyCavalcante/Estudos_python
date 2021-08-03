@@ -11,4 +11,4 @@ for valor in lista:
     elif valor%3==0:
         print("solo")
     else:
-        print(valor)
+        print("rola")
