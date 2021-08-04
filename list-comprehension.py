@@ -23,7 +23,6 @@ for x,n in enumerate(list):
         valorRep.append(n)
         break 
 if len(newlist)>1:
-    print("existem")
     print("valores repetidos são: "+str(set(valorRep)).strip('{}'))
     print("a posição dos valores repetidos são: "+str(newlist).strip('[]'))
 else:
