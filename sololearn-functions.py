@@ -1,5 +1,8 @@
-def rola (x):
-    print ("8"+("="*x)+">")
-tamanho=input("tamanho: ")
+celsius=int(input("insira um valor: "))
 
-rola(int(tamanho))
+def conv(x):
+    res=((9/5)*x+32)
+    return res 
+
+fahrenheit= conv(celsius)
+print(fahrenheit)
