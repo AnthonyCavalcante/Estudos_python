@@ -4,4 +4,4 @@ with open("books.txt", "w") as writ:
 with open("books.txt") as ler:
    categ= ler.readlines()
    for tittle in categ:
-       print(tittle[0]+str(len(tittle.rstrip()))) 
+       print(tittle[0]+str(len(tittle.rstrip())))
