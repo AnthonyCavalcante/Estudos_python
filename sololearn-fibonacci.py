@@ -6,5 +6,8 @@ def fibonacci(n):
         li.append(li[-1]+li[-2])
     for n in li:
         print(n)
+def main():
+    fibonacci(num)
 
-fibonacci(num)
+if __name__=='__main__':
+    main()
