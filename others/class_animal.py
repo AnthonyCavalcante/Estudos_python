@@ -37,11 +37,6 @@ class Cat(Animal):
 
 bichos = {"cachorro":Dog, "gato":Cat}
 
-class Patas:
-    __patinhas=4
-
-    def andando(self):
-        print(self.__patinhas)
         
 
 def main():
@@ -56,9 +51,7 @@ def main():
     print("======\n"+new_client.grito())
 
 def test():
-    x=Patas()
-    x.__patinhas()
-    print(x._Patas__patinhas)
+    x=''
    
 if __name__ =="__main__":
     test()
