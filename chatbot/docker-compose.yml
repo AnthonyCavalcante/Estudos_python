@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+
+  bot.main:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    image: &main_image_name atn_chatbot:latest
+    volumes:
+      - ./src:/project
+      - python_volumes:/usr/local/lib/python3.10/site-packages
+
+volumes:
+  python_volumes:

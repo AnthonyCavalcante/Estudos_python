@@ -1,21 +1,4 @@
 import time
-class Response:
-    def __init__(self, resp, name, email):
-        self.name = name 
-        self.email = email
-        self.resp = resp
-        
-    def data_user(self):
-        user_dic = {
-            'name':self.name,
-            'email':self.email
-            }
-        return "seu nome é "+user_dic.get('name')+ \
-         "\nseu email é o "+user_dic.get('email') \
-
-    def verify(self):
-        return " resposta nao econtrada\n======================="
-
 
 class Verify_Calendar(Response):
     def verify(self):
@@ -36,9 +19,6 @@ def data_user(name, email):
     }
     return "seu nome é "+user_dic.get('name')+ \
          "\nseu email é o "+user_dic.get('email') \
-
-
-
 
 def main ():
     #apresentação
@@ -83,7 +63,8 @@ def test():
 
 
 if __name__ == '__main__':
-    main()    
+
+    main()
 
 '''
 Nota:
