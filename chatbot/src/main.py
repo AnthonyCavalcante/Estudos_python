@@ -1,4 +1,9 @@
 import time
+from models.response import Response
+
+from view.screen_cli import ScreenCliView
+from interactions.setup.user import UserSetup
+from interactions.farewell import Farewell
 
 class Verify_Calendar(Response):
     def verify(self):
@@ -21,8 +26,12 @@ def data_user(name, email):
          "\nseu email é o "+user_dic.get('email') \
 
 def main ():
+
+    ScreenCliView\
+        .get_instance()\
+        .build()
     #apresentação
-    print('Opa, tudo bem? Sou o CalenBot')
+    print('Opa, tudo bem? Sou o Leandor')
     name = input(f'Qual seu nome?\n')
     email = input(f'informe seu email:\n')
     time.sleep(3)
@@ -49,22 +58,22 @@ def main ():
     print(start_operation.verify())
 
 
-#função para testar pequenas variações (excluir quando terminar)
 def test():
-    print('Opa, tudo bem? Sou o CalenBot')
-    name = input('Qual seu nome?\n')
-    email = input('informe seu email:\n')
-    print(data_user(name,email))
-    fname = name.split()[0]
 
-        
-    
+    ScreenCliView.get_instance().build()
 
-
+    UserSetup().interact()
 
 if __name__ == '__main__':
 
-    main()
+    try:
+
+        test()
+
+    except KeyboardInterrupt:
+
+        Farewell().interact()
+
 
 '''
 Nota:
