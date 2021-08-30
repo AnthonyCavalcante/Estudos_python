@@ -17,19 +17,8 @@ class Schedule_Calendar(Response):
 
 option={"1":Verify_Calendar, "2":Schedule_Calendar}
 
-def data_user(name, email):
-    user_dic = {
-    'name':name.split()[0],
-    'email':email
-    }
-    return "seu nome é "+user_dic.get('name')+ \
-         "\nseu email é o "+user_dic.get('email') \
+def main():
 
-def main ():
-
-    ScreenCliView\
-        .get_instance()\
-        .build()
     #apresentação
     print('Opa, tudo bem? Sou o Leandor')
     name = input(f'Qual seu nome?\n')

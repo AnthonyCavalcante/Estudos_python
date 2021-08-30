@@ -11,4 +11,4 @@ RUN pip install -r requirements.txt
 # Copia todo o projeto
 COPY ./src /project
 
-CMD [ "python", "main.py" ]
+CMD [ "python", "app.py" ]

@@ -37,7 +37,6 @@ class ScreenCliView:
         """
         os.system('clear')
 
-
         return self
 
     def get_screen_size(fallback=(80, 24)):
