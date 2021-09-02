@@ -1,0 +1,10 @@
+{
+    "animal": ["gato", "elefante", "ornitorrinco", "narval"],
+
+    "carro": ["corsa", "gol", "tracker", "voyage", "sandero"],
+
+    "pais": ["alemanha", "marrocos", "etiopia","argentina", "madagascar"],
+
+    "personagem": ["mickey", "woody", "cruella", "zangado", "cinderela"]
+
+}
