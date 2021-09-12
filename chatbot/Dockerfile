@@ -1,5 +1,7 @@
 FROM python:3.10.0rc1-alpine3.14
 
+RUN apk add build-base
+
 WORKDIR /project
 
 # Copia as dependencias do projeto

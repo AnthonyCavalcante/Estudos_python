@@ -5,17 +5,18 @@ from view.screen_cli import ScreenCliView
 from interactions.setup.user import UserSetup
 from interactions.farewell import Farewell
 
-class Verify_Calendar(Response):
+class Calendar:
     def verify(self):
         self.resp_return = 1
         return 'verificando calendário'
 
-class Schedule_Calendar(Response):
-    def verify(self):
+    def schedule(self):
         self.resp_return = 2
         return 'agendando horário'
 
-option={"1":Verify_Calendar, "2":Schedule_Calendar}
+cal = Calendar()
+
+option={"1":cal.verify(), "2":cal.schedule()}
 
 def main():
 
