@@ -1,0 +1,6 @@
+# dependencias para projeto:
+#
+# pip install selenium
+# pip install webdriver_manager
+# pip install clipboard
+
