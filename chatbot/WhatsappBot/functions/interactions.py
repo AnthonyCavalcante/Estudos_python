@@ -4,13 +4,12 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.action_chains import ActionChains
 import clipboard
 import time
-import json
 driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://web.whatsapp.com/')
 
-contact = ['Meus links']
+
 #tempo necessário para escanear qr-code do whatsappWeb
-time.sleep(10)
+time.sleep(30)
 
 #escreve o nome do contato no campo de busca de contatos 
 def find_contact(contact):
@@ -43,14 +42,27 @@ def find_command():
     actions.perform()
     msg_received = clipboard.paste()
 
-    return  msg_received
-
+    return  msg_received.lower()
+    
+# rotaciona entre os contatos 
 def read_first_contacts(position):
     actions = ActionChains(driver)
-    top_contacts = driver.find_elements_by_xpath('//div[contains(@class, "_3OvU8")]')
+    top_contacts = driver.find_elements_by_xpath('//div[contains(@class, "zoWT4")]')
     actions.click(top_contacts[position]).perform()
 
-
+#finaliza bot e fecha aplicação
 def end_bot():
-    driver.quit()
+
+    desconectWP = driver.find_elements_by_xpath('//div[contains(@class, "_26lC3")]')
+    
+    actions = ActionChains(driver)
+    actions.click(desconectWP[2])
+    time.sleep(1)
+    
+    actions.send_keys((Keys.ARROW_DOWN)*5)
+    actions.send_keys((Keys.ENTER))
+    actions.perform()
+    time.sleep(2)
+
+    driver.close()
 

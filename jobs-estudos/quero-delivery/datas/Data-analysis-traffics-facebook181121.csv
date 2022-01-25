@@ -1,0 +1,186 @@
+Nome da campanha,Nome do conjunto de anúncios,Dia,Região,Status de veiculação,Nível de veiculação,Tipo de resultado,Resultados,Alcance,Impressões,Valor gasto (BRL),Custo por resultado,Frequência,Cliques no link únicos,Cliques (todos),CTR único (taxa de cliques no link),CTR (taxa de cliques no link),Instalações do aplicativo,Custo por instalação de aplicativo,Ativações de aplicativos,Ativações do aplicativo únicas,Custo por ativação de aplicativo,Início dos relatórios,Término dos relatórios
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,18/11/2021,Minas Gerais,active,adset,0,0,1,1,0.01,0,1,0,0,0,0,0,0,0,0,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,18/11/2021,Bahia,active,adset,Cliques no link,3,1044,1114,5.14,1.71,1.067.049.808,3,5,0.287356322,0.26929982,0,0,158,100,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,18/11/2021,Sergipe,active,adset,Cliques no link,2,464,480,2.04,1.02,1.034.482.759,2,2,0.431034483,0.416666667,0,0,190,110,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,18/11/2021,Paraíba,active,adset,0,0,368,391,1.61,0,10.625,0,0,0,0,0,0,85,52,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,18/11/2021,São Paulo (state),active,adset,Cliques no link,1,221,243,1.26,1.26,1.099.547.511,1,2,0.452488688,0.411522634,0,0,21,16,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,18/11/2021,Alagoas,active,adset,0,0,182,189,0.96,0,1.038.461.538,0,0,0,0,0,0,36,26,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,18/11/2021,Ceará,active,adset,0,0,100,107,0.41,0,1.07,0,0,0,0,0,0,14,12,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,18/11/2021,Piauí,active,adset,0,0,49,49,0.17,0,1,0,0,0,0,0,0,16,8,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,18/11/2021,Goiás,active,adset,0,0,17,17,0.11,0,1,0,0,0,0,0,0,7,1,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,18/11/2021,Rio Grande do Norte,active,adset,0,0,16,16,0.07,0,1,0,0,0,0,0,0,3,2,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,18/11/2021,Maranhão,active,adset,0,0,9,9,0.01,0,1,0,0,0,0,0,0,3,2,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,18/11/2021,Rio Grande do Sul,active,adset,0,0,1,1,0.01,0,1,0,0,0,0,0,0,0,0,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,18/11/2021,Unknown,active,adset,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,18/11/2021,Unknown,active,adset,0,0,1,1,0.01,0,1,0,0,0,0,0,0,1,1,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,18/11/2021,Paraná,active,adset,0,0,1,3,0,0,3,0,0,0,0,0,0,0,0,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,18/11/2021,Rio Grande do Sul,active,adset,0,0,3,3,0.01,0,1,0,0,0,0,0,0,0,0,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,18/11/2021,Pará,active,adset,0,0,4,6,0.01,0,1.5,0,0,0,0,0,0,0,0,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,18/11/2021,Maranhão,active,adset,0,0,20,22,0.07,0,1.1,0,0,0,0,0,0,1,1,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,18/11/2021,Goiás,active,adset,0,0,28,31,0.21,0,1.107.142.857,0,0,0,0,0,0,2,2,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,18/11/2021,Rio Grande do Norte,active,adset,Cliques no link,1,46,48,0.13,0.13,1.043.478.261,1,2,2.173.913.043,2.083.333.333,0,0,6,5,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,18/11/2021,Piauí,active,adset,0,0,74,80,0.31,0,1.081.081.081,0,0,0,0,0,0,6,4,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,18/11/2021,Ceará,active,adset,Cliques no link,1,187,203,0.79,0.79,1.085.561.497,1,2,0.534759358,0.492610837,0,0,15,13,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,18/11/2021,Alagoas,active,adset,0,0,244,266,1.31,0,1.090.163.934,0,0,0,0,0,0,43,25,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,18/11/2021,São Paulo (state),active,adset,Cliques no link,2,268,312,1.7,0.85,1.164.179.104,2,2,0.746268657,0.641025641,0,0,20,15,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,18/11/2021,Paraíba,active,adset,Cliques no link,4,696,753,2.77,0.69,1.081.896.552,4,6,0.574712644,0.531208499,0,0,176,93,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,18/11/2021,Sergipe,active,adset,Cliques no link,2,776,830,3.67,1.84,1.069.587.629,2,2,0.257731959,0.240963855,0,0,251,146,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,18/11/2021,Pernambuco,active,adset,Cliques no link,5,902,1001,4.91,0.98,1.109.756.098,5,7,0.554323725,0.4995005,0,0,101,60,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,18/11/2021,Bahia,active,adset,Cliques no link,6,1671,1807,8.82,1.47,108.138.839,6,9,0.359066427,0.332042059,0,0,151,96,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,18/11/2021,Pernambuco,active,adset,Cliques no link,3,600,630,3.15,1.05,1.05,3,4,0.5,0.476190476,0,0,96,66,0,18/11/2021,18/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,17/11/2021,Pernambuco,active,adset,Cliques no link,27,3616,4523,21.87,0.81,1.250.829.646,24,34,0.663716814,0.596948928,0,0,769,384,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,17/11/2021,Bahia,active,adset,Cliques no link,44,7044,8227,37.2,0.85,116.794.435,42,71,0.596252129,0.534824359,0,0,1951,846,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,17/11/2021,Paraná,active,adset,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,17/11/2021,Paraíba,active,adset,Cliques no link,6,2412,3082,12.68,2.11,1.277.777.778,6,11,0.248756219,0.19467878,0,0,914,362,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,17/11/2021,Alagoas,active,adset,Cliques no link,4,1216,1401,6.43,1.61,1.152.138.158,4,7,0.328947368,0.28551035,0,0,267,148,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,17/11/2021,Ceará,active,adset,0,0,680,872,3.85,0,1.282.352.941,0,1,0,0,0,0,197,84,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,17/11/2021,Piauí,active,adset,0,0,304,345,1.39,0,1.134.868.421,0,0,0,0,0,0,98,36,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,17/11/2021,Rio Grande do Norte,active,adset,0,0,176,221,0.95,0,1.255.681.818,0,2,0,0,0,0,54,34,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,17/11/2021,Goiás,active,adset,Cliques no link,2,128,145,0.82,0.41,11.328.125,2,3,15.625,1.379.310.345,0,0,44,24,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,17/11/2021,Maranhão,active,adset,0,0,60,92,0.45,0,1.533.333.333,0,0,0,0,0,0,33,10,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,17/11/2021,Unknown,active,adset,0,0,24,24,0.18,0,1,0,0,0,0,0,0,3,2,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,17/11/2021,Rio Grande do Sul,active,adset,0,0,18,18,0.13,0,1,0,0,0,0,0,0,0,0,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,17/11/2021,Pará,active,adset,0,0,4,5,0.03,0,1.25,0,0,0,0,0,0,0,0,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,17/11/2021,Paraná,active,adset,0,0,3,3,0.02,0,1,0,0,0,0,0,0,0,0,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,17/11/2021,Minas Gerais,active,adset,0,0,3,3,0.01,0,1,0,0,0,0,0,0,0,0,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,17/11/2021,Bahia,active,adset,Cliques no link,36,7200,8362,36.74,1.02,1.161.388.889,35,51,0.486111111,0.430519015,0,0,2034,874,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,17/11/2021,Minas Gerais,active,adset,0,0,3,3,0.02,0,1,0,0,0,0,0,0,2,2,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,17/11/2021,Sergipe,active,adset,Cliques no link,13,2620,3253,13.81,1.06,1.241.603.053,13,19,0.496183206,0.39963111,0,0,1346,566,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,17/11/2021,São Paulo (state),active,adset,Cliques no link,8,1064,1491,7.68,0.96,1.401.315.789,8,13,0.751879699,0.536552649,0,0,192,114,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,17/11/2021,Sergipe,active,adset,Cliques no link,18,3448,3985,15.51,0.86,1.155.742.459,16,25,0.464037123,0.451693852,0,0,1881,692,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,17/11/2021,Paraíba,active,adset,Cliques no link,12,2912,3590,13.94,1.16,123.282.967,12,15,0.412087912,0.334261838,0,0,1211,512,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,17/11/2021,Rio Grande do Sul,active,adset,0,0,4,13,0.06,0,3.25,0,0,0,0,0,0,0,0,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,17/11/2021,Pará,active,adset,0,0,8,20,0.1,0,2.5,0,0,0,0,0,0,0,0,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,17/11/2021,Unknown,active,adset,0,0,29,29,0.07,0,1,0,1,0,0,0,0,6,4,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,17/11/2021,Maranhão,active,adset,Cliques no link,1,72,82,0.36,0.36,1.138.888.889,1,1,1.388.888.889,1.219.512.195,0,0,19,8,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,17/11/2021,Goiás,active,adset,0,0,124,125,0.82,0,1.008.064.516,0,0,0,0,0,0,40,16,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,17/11/2021,Rio Grande do Norte,active,adset,Cliques no link,1,172,228,1.01,1.01,1.325.581.395,1,1,0.581395349,0.438596491,0,0,65,26,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,17/11/2021,Piauí,active,adset,Cliques no link,1,368,379,1.44,1.44,1.029.891.304,1,1,0.27173913,0.263852243,0,0,71,24,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,17/11/2021,Ceará,active,adset,Cliques no link,3,716,894,3.46,1.15,1.248.603.352,3,4,0.418994413,0.33557047,0,0,210,84,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,17/11/2021,São Paulo (state),active,adset,Cliques no link,13,888,1253,6.76,0.52,1.411.036.036,12,17,1.351.351.351,1.037.509.976,0,0,161,90,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,17/11/2021,Pernambuco,active,adset,Cliques no link,18,3688,4327,20.23,1.12,1.173.264.642,18,26,0.488069414,0.415992605,0,0,703,376,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,17/11/2021,Alagoas,active,adset,Cliques no link,8,1352,1436,6.81,0.85,1.062.130.178,8,9,0.591715976,0.557103064,0,0,357,148,0,17/11/2021,17/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,16/11/2021,Alagoas,active,adset,Cliques no link,9,1552,1849,7.42,0.82,1.191.365.979,9,11,0.579896907,0.486749594,0,0,424,178,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,16/11/2021,São Paulo (state),active,adset,Cliques no link,13,1144,1328,5.76,0.44,1.160.839.161,12,17,1.048.951.049,0.978915663,0,0,240,144,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,16/11/2021,Sergipe,active,adset,Cliques no link,16,3927,4336,13.43,0.84,1.104.150.751,16,21,0.407435702,0.36900369,0,0,2242,898,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,16/11/2021,Paraná,active,adset,0,0,4,4,0.02,0,1,0,0,0,0,0,0,0,0,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,16/11/2021,Rio Grande do Sul,active,adset,0,0,8,17,0.1,0,2.125,0,0,0,0,0,0,0,0,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,16/11/2021,Pará,active,adset,0,0,0,19,0.1,0,0,0,0,0,0,0,0,5,2,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,16/11/2021,Maranhão,active,adset,0,0,120,147,0.67,0,1.225,0,0,0,0,0,0,48,14,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,16/11/2021,Goiás,active,adset,0,0,168,174,0.87,0,1.035.714.286,0,0,0,0,0,0,15,10,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,16/11/2021,Paraíba,active,adset,Cliques no link,15,3015,3849,11.34,0.76,1.276.616.915,14,20,0.464344942,0.389711613,0,0,1188,498,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,16/11/2021,Piauí,active,adset,Cliques no link,2,432,493,1.39,0.69,1.141.203.704,2,4,0.462962963,0.405679513,0,0,99,58,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,16/11/2021,Ceará,active,adset,Cliques no link,6,1000,1140,3.65,0.61,1.14,5,7,0.5,0.526315789,0,0,306,130,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,16/11/2021,Rio Grande do Norte,active,adset,0,0,208,337,1.04,0,1.620.192.308,0,2,0,0,0,0,77,32,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,16/11/2021,Bahia,active,adset,Cliques no link,54,8528,10016,35.7,0.66,1.174.484.053,53,62,0.621482176,0.53913738,0,0,2292,1018,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,16/11/2021,Pernambuco,active,adset,Cliques no link,30,5216,5692,22.11,0.74,1.091.257.669,28,37,0.536809816,0.527055517,0,0,1095,604,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,16/11/2021,Sergipe,active,adset,Cliques no link,14,4592,5022,15.3,1.09,1.093.641.115,13,26,0.283101045,0.278773397,0,0,2462,996,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,16/11/2021,Paraíba,active,adset,Cliques no link,12,3544,4023,12.59,1.05,1.135.158.014,12,19,0.338600451,0.298284862,0,0,1234,542,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,16/11/2021,Alagoas,active,adset,Cliques no link,12,1464,1742,6.4,0.53,118.989.071,12,14,0.819672131,0.688863375,0,0,349,182,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,16/11/2021,São Paulo (state),active,adset,Cliques no link,11,1072,1290,5.63,0.51,1.203.358.209,9,13,0.839552239,0.852713178,0,0,213,118,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,16/11/2021,Ceará,active,adset,Cliques no link,6,896,1115,3.65,0.61,1.244.419.643,6,10,0.669642857,0.538116592,0,0,329,132,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,16/11/2021,Piauí,active,adset,Cliques no link,1,456,478,1.4,1.4,1.048.245.614,1,3,0.219298246,0.209205021,0,0,90,50,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,16/11/2021,Rio Grande do Norte,active,adset,0,0,332,332,1.05,0,1,0,0,0,0,0,0,70,24,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,16/11/2021,Goiás,active,adset,Cliques no link,1,104,151,0.67,0.67,1.451.923.077,1,1,0.961538462,0.662251656,0,0,27,14,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,16/11/2021,Maranhão,active,adset,0,0,128,140,0.6,0,109.375,0,1,0,0,0,0,20,14,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,16/11/2021,Pará,active,adset,0,0,8,15,0.03,0,1.875,0,0,0,0,0,0,3,0,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,16/11/2021,Rio Grande do Sul,active,adset,0,0,13,13,0.04,0,1,0,0,0,0,0,0,0,0,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,16/11/2021,Unknown,active,adset,0,0,0,4,0.04,0,0,0,0,0,0,0,0,0,0,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,16/11/2021,Pernambuco,active,adset,Cliques no link,17,5095,6267,24.33,1.43,1.230.029.441,17,24,0.333660451,0.271262167,0,0,1226,532,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,16/11/2021,Bahia,active,adset,Cliques no link,39,8479,9833,34.33,0.88,1.159.688.643,37,59,0.436372214,0.396623614,0,0,2244,952,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,16/11/2021,Paraná,active,adset,0,0,2,2,0.02,0,1,0,0,0,0,0,0,0,0,0,16/11/2021,16/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,15/11/2021,Rio Grande do Norte,active,adset,Cliques no link,3,360,382,1.25,0.42,1.061.111.111,3,4,0.833333333,0.785340314,0,0,126,48,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,15/11/2021,Pernambuco,active,adset,Cliques no link,40,5895,6998,25.36,0.63,1.187.107.718,39,60,0.661577608,0.571591883,0,0,1628,676,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,15/11/2021,Sergipe,active,adset,Cliques no link,21,5543,6027,19.63,0.93,1.087.317.337,21,34,0.378856215,0.348432056,0,0,4061,1296,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,15/11/2021,Paraíba,active,adset,Cliques no link,15,3864,4395,13.4,0.89,113.742.236,14,30,0.362318841,0.341296928,0,0,2131,780,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,15/11/2021,Alagoas,active,adset,Cliques no link,7,1560,1931,7.01,1,1.237.820.513,6,8,0.384615385,0.362506473,0,0,569,256,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,15/11/2021,São Paulo (state),active,adset,Cliques no link,10,1112,1424,5.55,0.55,128.057.554,9,14,0.809352518,0.702247191,0,0,267,116,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,15/11/2021,Ceará,active,adset,Cliques no link,7,968,1214,3.89,0.56,1.254.132.231,4,11,0.41322314,0.57660626,0,0,397,172,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,15/11/2021,Piauí,active,adset,0,0,567,567,1.75,0,1,0,1,0,0,0,0,146,84,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,15/11/2021,Maranhão,active,adset,Cliques no link,3,112,192,0.76,0.25,1.714.285.714,2,4,1.785.714.286,15.625,0,0,55,12,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,15/11/2021,Paraná,active,adset,0,0,5,5,0.05,0,1,0,0,0,0,0,0,5,0,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,15/11/2021,Goiás,active,adset,Cliques no link,2,136,139,0.56,0.28,1.022.058.824,2,2,1.470.588.235,1.438.848.921,0,0,41,28,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,15/11/2021,Rio Grande do Sul,active,adset,0,0,16,17,0.07,0,10.625,0,0,0,0,0,0,0,0,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,15/11/2021,Pará,active,adset,0,0,0,12,0.07,0,0,0,0,0,0,0,0,2,0,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,15/11/2021,Paraná,active,adset,0,0,4,4,0.04,0,1,0,0,0,0,0,0,0,0,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,15/11/2021,Minas Gerais,active,adset,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,15/11/2021,Federal District,active,adset,0,0,1,1,0.01,0,1,0,0,0,0,0,0,0,0,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,15/11/2021,Unknown,active,adset,0,0,0,1,0.01,0,0,0,0,0,0,0,0,0,0,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,15/11/2021,Bahia,active,adset,Cliques no link,54,9839,10923,38.59,0.71,1.110.173.798,54,76,0.548836264,0.494369679,0,0,4223,1468,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,15/11/2021,Pará,active,adset,0,0,0,13,0.1,0,0,0,0,0,0,0,0,5,4,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,15/11/2021,Alagoas,active,adset,Cliques no link,16,1584,1877,7.48,0.47,1.184.974.747,14,23,0.883838384,0.852424081,0,0,529,188,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,15/11/2021,Minas Gerais,active,adset,0,0,0,3,0.01,0,0,0,0,0,0,0,0,0,0,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,15/11/2021,Rio Grande do Sul,active,adset,0,0,0,21,0.07,0,0,0,0,0,0,0,0,1,0,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,15/11/2021,Maranhão,active,adset,Cliques no link,3,104,154,0.71,0.24,1.480.769.231,2,3,1.923.076.923,1.948.051.948,0,0,35,20,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,15/11/2021,Goiás,active,adset,Cliques no link,2,96,188,0.84,0.42,1.958.333.333,2,3,2.083.333.333,1.063.829.787,0,0,26,16,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,15/11/2021,Rio Grande do Norte,active,adset,0,0,304,375,1.04,0,1.233.552.632,0,0,0,0,0,0,136,48,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,15/11/2021,Piauí,active,adset,Cliques no link,2,497,497,1.74,0.87,1,2,2,0.402414487,0.402414487,0,0,127,64,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,15/11/2021,Ceará,active,adset,Cliques no link,11,1064,1145,4.04,0.37,107.612.782,10,17,0.939849624,0.96069869,0,0,413,192,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,15/11/2021,São Paulo (state),active,adset,Cliques no link,7,1328,1569,7.03,1,1.181.475.904,7,9,0.527108434,0.446144041,0,0,321,144,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,15/11/2021,Paraíba,active,adset,Cliques no link,18,3191,4195,13.54,0.75,1.314.634.911,17,30,0.532748355,0.429082241,0,0,1944,712,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,15/11/2021,Sergipe,active,adset,Cliques no link,23,4807,5380,17.09,0.74,1.119.201.165,23,29,0.4784689,0.427509294,0,0,4068,1244,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,15/11/2021,Pernambuco,active,adset,Cliques no link,48,5799,7021,26.87,0.56,1.210.725.987,41,59,0.707018451,0.683663296,0,0,1659,720,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,15/11/2021,Bahia,active,adset,Cliques no link,56,8798,10289,37,0.66,1.169.470.334,52,73,0.591043419,0.54427058,0,0,4137,1504,0,15/11/2021,15/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,14/11/2021,Rio Grande do Norte,active,adset,0,0,296,312,0.97,0,1.054.054.054,0,0,0,0,0,0,118,48,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,14/11/2021,Goiás,active,adset,Cliques no link,3,112,155,1.02,0.34,1.383.928.571,2,3,1.785.714.286,1.935.483.871,0,0,35,16,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,14/11/2021,Goiás,active,adset,Cliques no link,1,104,187,0.93,0.93,1.798.076.923,1,2,0.961538462,0.534759358,0,0,39,16,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,14/11/2021,Maranhão,active,adset,Cliques no link,2,88,98,0.28,0.14,1.113.636.364,2,2,2.272.727.273,2.040.816.327,0,0,40,12,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,14/11/2021,Piauí,active,adset,Cliques no link,2,480,501,1.91,0.95,104.375,2,3,0.416666667,0.399201597,0,0,171,64,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,14/11/2021,Ceará,active,adset,Cliques no link,11,960,963,3.28,0.3,1.003.125,10,12,1.041.666.667,1.142.263.759,0,0,362,174,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,14/11/2021,Pará,active,adset,0,0,0,14,0.06,0,0,0,0,0,0,0,0,2,2,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,14/11/2021,Rio Grande do Sul,active,adset,0,0,24,24,0.05,0,1,0,0,0,0,0,0,0,0,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,14/11/2021,Federal District,active,adset,0,0,0,2,0.01,0,0,0,0,0,0,0,0,0,0,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,14/11/2021,Paraná,active,adset,0,0,6,6,0.03,0,1,0,0,0,0,0,0,0,0,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,14/11/2021,Minas Gerais,active,adset,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,14/11/2021,Federal District,active,adset,0,0,0,1,0.01,0,0,0,0,0,0,0,0,0,0,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,14/11/2021,Pará,active,adset,0,0,8,15,0.05,0,1.875,0,0,0,0,0,0,1,1,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,14/11/2021,Paraná,active,adset,0,0,8,8,0.05,0,1,0,0,0,0,0,0,4,0,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,14/11/2021,Minas Gerais,active,adset,0,0,0,2,0.02,0,0,0,0,0,0,0,0,0,0,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,14/11/2021,Alagoas,active,adset,Cliques no link,9,1280,1705,7.75,0.86,133.203.125,9,13,0.703125,0.527859238,0,0,510,196,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,14/11/2021,São Paulo (state),active,adset,Cliques no link,10,1072,1355,5.85,0.58,1.263.992.537,9,12,0.839552239,0.73800738,0,0,204,102,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,14/11/2021,Maranhão,active,adset,0,0,104,127,0.43,0,1.221.153.846,0,0,0,0,0,0,28,24,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,14/11/2021,Paraíba,active,adset,Cliques no link,17,2808,3711,13.15,0.77,1.321.581.197,16,21,0.56980057,0.458097548,0,0,1691,628,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,14/11/2021,Bahia,active,adset,Cliques no link,43,7200,8848,36.36,0.85,1.228.888.889,42,53,0.583333333,0.485985533,0,0,3307,1290,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,14/11/2021,Rio Grande do Norte,active,adset,Cliques no link,2,264,310,1.02,0.51,1.174.242.424,2,2,0.757575758,0.64516129,0,0,105,46,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,14/11/2021,Piauí,active,adset,Cliques no link,3,495,495,2.14,0.71,1,3,3,0.606060606,0.606060606,0,0,156,68,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,14/11/2021,Ceará,active,adset,Cliques no link,4,664,902,3.12,0.78,1.358.433.735,4,5,0.602409639,0.44345898,0,0,322,116,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,14/11/2021,São Paulo (state),active,adset,Cliques no link,9,1064,1311,6.04,0.67,1.232.142.857,8,16,0.751879699,0.686498856,0,0,198,102,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,14/11/2021,Alagoas,active,adset,Cliques no link,5,1288,1634,7.08,1.42,126.863.354,5,5,0.388198758,0.305997552,0,0,504,226,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,14/11/2021,Paraíba,active,adset,Cliques no link,24,2936,3817,13.41,0.56,130.006.812,21,34,0.715258856,0.628766047,0,0,1732,678,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,14/11/2021,Sergipe,active,adset,Cliques no link,18,3656,4373,15.69,0.87,1.196.115.974,18,26,0.492341357,0.411616739,0,0,3046,1078,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,14/11/2021,Sergipe,active,adset,Cliques no link,14,3904,4776,17.83,1.27,1.223.360.656,14,20,0.358606557,0.293132328,0,0,3381,1060,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,14/11/2021,Pernambuco,active,adset,Cliques no link,23,5168,6420,28.64,1.25,1.242.260.062,23,33,0.44504644,0.358255452,0,0,1475,722,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,14/11/2021,Rio Grande do Sul,active,adset,0,0,0,20,0.05,0,0,0,0,0,0,0,0,1,1,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,14/11/2021,Pernambuco,active,adset,Cliques no link,33,5088,6115,26.36,0.8,1.201.847.484,31,38,0.60927673,0.539656582,0,0,1646,692,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,14/11/2021,Bahia,active,adset,Cliques no link,51,7408,9085,36.69,0.72,122.637.689,45,66,0.607451404,0.561364887,0,0,3540,1382,0,14/11/2021,14/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,13/11/2021,São Paulo (state),active,adset,Cliques no link,4,716,951,5.07,1.27,1.328.212.291,4,6,0.558659218,0.420609884,0,0,103,64,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,13/11/2021,Paraná,active,adset,0,0,5,5,0.01,0,1,0,0,0,0,0,0,0,0,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,13/11/2021,Bahia,active,adset,Cliques no link,47,7463,8356,33.31,0.71,1.119.656.974,46,62,0.616374112,0.562470081,0,0,2098,839,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,13/11/2021,Pernambuco,active,adset,Cliques no link,37,5216,6339,28.15,0.76,121.529.908,37,44,0.709355828,0.583688279,0,0,850,408,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,13/11/2021,Sergipe,active,adset,Cliques no link,23,3928,4268,15.71,0.68,1.086.558.045,23,30,0.585539715,0.538894096,0,0,1722,638,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,13/11/2021,Paraíba,active,adset,Cliques no link,13,2744,3549,12.92,0.99,1.293.367.347,13,18,0.473760933,0.366300366,0,0,1107,431,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,13/11/2021,Alagoas,active,adset,Cliques no link,16,1472,1802,7.98,0.5,1.224.184.783,14,18,0.951086957,0.887902331,0,0,329,144,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,13/11/2021,São Paulo (state),active,adset,Cliques no link,13,776,931,4.63,0.36,1.199.742.268,10,13,1.288.659.794,1.396.348.013,0,0,146,72,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,13/11/2021,Ceará,active,adset,Cliques no link,5,768,876,2.99,0.6,1.140.625,5,7,0.651041667,0.570776256,0,0,173,78,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,13/11/2021,Piauí,active,adset,Cliques no link,5,440,499,1.59,0.32,1.134.090.909,5,5,1.136.363.636,1.002.004.008,0,0,81,41,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,13/11/2021,Rio Grande do Norte,active,adset,Cliques no link,1,320,343,1.12,1.12,1.071.875,1,2,0.3125,0.29154519,0,0,65,26,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,13/11/2021,Goiás,active,adset,Cliques no link,1,72,131,0.62,0.62,1.819.444.444,1,1,1.388.888.889,0.763358779,0,0,23,10,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,13/11/2021,Maranhão,active,adset,Cliques no link,2,56,85,0.3,0.15,1.517.857.143,2,2,3.571.428.571,2.352.941.176,0,0,10,7,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,13/11/2021,Rio Grande do Sul,active,adset,0,0,16,18,0.04,0,1.125,0,0,0,0,0,0,0,0,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,13/11/2021,Pará,active,adset,0,0,0,11,0.03,0,0,0,0,0,0,0,0,0,0,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,13/11/2021,Ceará,active,adset,Cliques no link,2,740,867,3.35,1.68,1.171.621.622,2,2,0.27027027,0.230680507,0,0,172,79,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,13/11/2021,Alagoas,active,adset,Cliques no link,8,1444,1616,7.26,0.91,1.119.113.573,8,11,0.55401662,0.495049505,0,0,315,134,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,13/11/2021,Piauí,active,adset,Cliques no link,1,388,429,1.55,1.55,1.105.670.103,1,4,0.257731959,0.233100233,0,0,57,31,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,13/11/2021,Minas Gerais,active,adset,0,0,0,1,0.01,0,0,0,0,0,0,0,0,0,0,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,13/11/2021,Federal District,active,adset,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,13/11/2021,Paraná,active,adset,0,0,4,7,0.04,0,1.75,0,0,0,0,0,0,4,1,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,13/11/2021,Pará,active,adset,0,0,8,11,0.07,0,1.375,0,0,0,0,0,0,1,1,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,13/11/2021,Rio Grande do Sul,active,adset,0,0,16,17,0.1,0,10.625,0,0,0,0,0,0,0,0,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,13/11/2021,Maranhão,active,adset,Cliques no link,1,64,90,0.43,0.43,140.625,1,1,15.625,1.111.111.111,0,0,21,9,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,13/11/2021,Goiás,active,adset,Cliques no link,4,136,163,0.91,0.23,1.198.529.412,4,5,2.941.176.471,245.398.773,0,0,42,21,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Vantagens ||All_cities||traffic,13/11/2021,Federal District,active,adset,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,13/11/2021,Bahia,active,adset,Cliques no link,43,6944,7961,35.08,0.82,1.146.457.373,38,61,0.547235023,0.540133149,0,0,1638,677,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,13/11/2021,Pernambuco,active,adset,Cliques no link,31,4440,5360,26.01,0.84,1.207.207.207,29,46,0.653153153,0.578358209,0,0,783,381,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,13/11/2021,Sergipe,active,adset,Cliques no link,19,3272,3947,16.65,0.88,1.206.295.844,18,25,0.550122249,0.481378262,0,0,1421,536,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,13/11/2021,Paraíba,active,adset,Cliques no link,16,2748,3158,12.49,0.78,1.149.199.418,15,22,0.545851528,0.506649778,0,0,866,358,0,13/11/2021,13/11/2021
+Traffic||Branding geral||Novembro,QD_Produtos||All_cities||traffic,13/11/2021,Rio Grande do Norte,active,adset,Cliques no link,2,220,290,1.03,0.52,1.318.181.818,1,2,0.454545455,0.689655172,0,0,88,27,0,13/11/2021,13/11/2021

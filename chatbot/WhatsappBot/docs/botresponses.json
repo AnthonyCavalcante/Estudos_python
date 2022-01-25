@@ -3,6 +3,12 @@
     "teste":"recebendo msg corretamente", 
     "/calendario" : "abrindo calendário...",
     "opa": "olá",
-    "finalizar": "bot finalizado"
+    "finalizar": "bot finalizado",
+    "bom dia" : "Opa, diiia!!",
+    "boa tarde": "Opa, taaarde!!",
+    "tudo bem?": "tudo certinho! E com você?",
+    "Anthony": "Opa, manda a boa!",
+    "oi": "olaa! ",
+    "e ae cagones": "diga meu viaado!!"
     
 }

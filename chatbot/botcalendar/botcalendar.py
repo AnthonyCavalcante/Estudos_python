@@ -1,4 +1,5 @@
 import time
+import botcalendar
 class Response:
     def __init__(self, resp, name, email):
         self.name = name 
@@ -105,3 +106,4 @@ Nota:
                 ► confirmar agendamento
 ===
   '''
+
